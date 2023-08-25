@@ -1,2 +1,3 @@
 # Discourse_Analysis
-Analyzing the Discourse Surrounding Japan's Radioactive Water Discharge: A Geometric and Semantic Approach
+Paper: Analyzing the Discourse Surrounding Japan's Radioactive Water Discharge: A Geometric and Semantic Approach
+This is a repository for my course paper.
